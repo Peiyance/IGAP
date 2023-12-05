@@ -1,3 +1,3 @@
 # Anonymous IGAP
 
-This is an implement sample for the IGAP method.
+This is an implementation sample for the IGAP method.
